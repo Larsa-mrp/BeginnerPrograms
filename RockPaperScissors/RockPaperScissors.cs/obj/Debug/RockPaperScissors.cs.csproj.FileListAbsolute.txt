@@ -1,0 +1,22 @@
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.exe.config
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.exe
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.pdb
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.csproj.AssemblyReference.cache
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.csproj.CoreCompileInputs.cache
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.exe
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.pdb
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.exe.manifest
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.application
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.exe.manifest
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.application
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.exe.config
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.exe.manifest
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.application
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.exe
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Debug\RockPaperScissors.cs.pdb
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.csproj.AssemblyReference.cache
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.csproj.CoreCompileInputs.cache
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.exe.manifest
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.application
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.exe
+E:\Cert IV Backup\Visual Studio Projects\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Debug\RockPaperScissors.cs.pdb

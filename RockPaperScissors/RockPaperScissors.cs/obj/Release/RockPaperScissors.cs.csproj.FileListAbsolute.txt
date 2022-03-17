@@ -1,0 +1,10 @@
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Release\RockPaperScissors.cs.exe.config
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Release\RockPaperScissors.cs.exe.manifest
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Release\RockPaperScissors.cs.application
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Release\RockPaperScissors.cs.exe
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\bin\Release\RockPaperScissors.cs.pdb
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Release\RockPaperScissors.cs.csproj.CoreCompileInputs.cache
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Release\RockPaperScissors.cs.exe.manifest
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Release\RockPaperScissors.cs.application
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Release\RockPaperScissors.cs.exe
+G:\Visual Studio 2019\Projects\RockPaperScissors.cs.Solution\RockPaperScissors.cs\obj\Release\RockPaperScissors.cs.pdb
