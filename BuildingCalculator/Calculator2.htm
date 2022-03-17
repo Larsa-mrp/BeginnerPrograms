@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript">
+
+        var displayCost;
+                     
+        function Calculate(){
+
+        const doubleBrick = 1290.00;
+        const brickVeneer = 1160.00;
+        const weatherBoard = 950.00;
+        const other = 900.00;
+
+        var area = parseFloat(document.getElementById("Area").value);
+        var garageDriveways = parseFloat(document.getElementById("GarageDriveways").value);
+        var fencesGates = parseFloat(document.getElementById("FencesGates").value);
+        var swimmingPool = parseFloat(document.getElementById("SwimmingPool").value);
+        var debrisRemoval = parseFloat(document.getElementById("DebrisRemoval").value);
+        var fixtures = parseFloat(document.getElementById("Fixtures").value);  
+             
+        var buildingCost;
+        var totalCost;
+        var costPerArea;
+
+            switch (document.getElementById("constructionType").value)
+            {
+                case "doubleBrick": 
+                    costPerArea = doubleBrick                        
+                    break;
+                case "brickVeneer": 
+                    costPerArea = brickVeneer                
+                    break;
+                case "weatherBoard":
+                    costPerArea = weatherBoard                                
+                    break;
+                case "other":
+                    costPerArea = other                                                 
+            }         
+                    
+           buildingCost = parseFloat(costPerArea * area);
+           totalCost = parseFloat(buildingCost + garageDriveways + fencesGates + swimmingPool + debrisRemoval + fixtures);                     
+           return totalCost;                      
+        }    
+    </script>   
+</head>
+<body>    
+    <form>
+    <h1 style="font-size:40px;">Building Replacement Calculator</h1>
+    <p style="font-size:20px;">Enter amounts in whole dollar numbers below to create a list of what your building is worth.</p>
+<table style="font-size:20px;">         
+<tr>
+    <td>STATE</td>
+    <td>Victoria</td>
+</tr>
+
+<tr>
+    <td>CONSTRUCTION TYPE</td>
+    <td><select id="constructionType">
+        <option value="doubleBrick">Double Brick $1290.00 p/m</option>
+        <option value="brickVeneer">Brick Veneer $1160.00 p/m</option>
+        <option value="weatherBoard">Weather Board $950.00 p/m</option>
+        <option value="other">Other $900.00 p/m</option>
+    </select>
+    </td>
+</tr>
+
+<tr>
+    <td>AREA OF HOME[SQ METERS]</td>
+    <td><label></label><input type="number" id="Area" required></td>
+</tr>
+
+<tr>
+    <td>GARAGE, DRIVEWAYS</td>
+    <td><label>$:</label><input type="number" id="GarageDriveways" required></td>
+</tr>
+
+<tr>
+    <td>FENCES, GATES</td>
+    <td><label>$:</label><input type="number" id="FencesGates" required></td>
+</tr>
+
+<tr>
+    <td>INGROUND SWIMMING POOL</td>
+    <td><label>$:</label><input type="number" id="SwimmingPool" required></td>
+</tr>
+
+<tr>
+    <td>ARCHITECTS FEES, DEBRIS REMOVAL</td>
+    <td><label>$:</label><input type="number" id="DebrisRemoval" required></td>
+</tr>
+
+<tr>
+    <td>PERMANENT FIXTURES - SHEDS,<br> AIR CONDITIONING UNITS</td>
+    <td><label>$:</label><input type="number" id="Fixtures" required></td>
+</tr>
+
+<tr>
+    <td>COST OF CONSTRUCTION</td>
+    <td><label>$:</label><input type="number" id="costOfConstruction" readonly></td>
+</tr>
+    
+</table>
+<tr>
+    <td><button type="Reset" value="Clear" onclick="location.reload();">Reset</button></td>
+    <td><button type="button" onclick= "displayCost = Calculate();
+    document.getElementById('costOfConstruction').value = displayCost;">Calculate</button></td>  
+</tr>
+</form>
+    
+</body>
+</html>
