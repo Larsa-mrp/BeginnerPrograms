@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MarshallsRevenueSolution\MarshallsRevenue\obj\Debug\MarshallsRevenue.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MarshallsRevenueSolution\MarshallsRevenue\obj\Debug\MarshallsRevenue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MarshallsRevenueSolution\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe.config
+C:\Users\User\source\repos\MarshallsRevenueSolution\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe
+C:\Users\User\source\repos\MarshallsRevenueSolution\MarshallsRevenue\bin\Debug\MarshallsRevenue.pdb
+C:\Users\User\source\repos\MarshallsRevenueSolution\MarshallsRevenue\obj\Debug\MarshallsRevenue.exe
+C:\Users\User\source\repos\MarshallsRevenueSolution\MarshallsRevenue\obj\Debug\MarshallsRevenue.pdb
+G:\Visual Studio 2019\Projects\MarshallsRevenueSolution\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe.config
+G:\Visual Studio 2019\Projects\MarshallsRevenueSolution\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe
+G:\Visual Studio 2019\Projects\MarshallsRevenueSolution\MarshallsRevenue\bin\Debug\MarshallsRevenue.pdb
+G:\Visual Studio 2019\Projects\MarshallsRevenueSolution\MarshallsRevenue\obj\Debug\MarshallsRevenue.csproj.AssemblyReference.cache
+G:\Visual Studio 2019\Projects\MarshallsRevenueSolution\MarshallsRevenue\obj\Debug\MarshallsRevenue.csproj.CoreCompileInputs.cache
+G:\Visual Studio 2019\Projects\MarshallsRevenueSolution\MarshallsRevenue\obj\Debug\MarshallsRevenue.exe
+G:\Visual Studio 2019\Projects\MarshallsRevenueSolution\MarshallsRevenue\obj\Debug\MarshallsRevenue.pdb
